@@ -1,5 +1,5 @@
 # AESTool
-AES加密
+AES加密/解密
 
 iOS AES加密工具类（AES encryption tool by iOS）
 
@@ -9,7 +9,7 @@ iOS AES加密工具类（AES encryption tool by iOS）
 
 支持的填充类型： PKCS7Padding ZeroPadding ANSIX923 ISO10126
 
-### JAVA端对应AES加密
+### JAVA端对应AES加密/解密算法
 ```
 public class AESUtil {
     /**
